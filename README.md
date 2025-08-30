@@ -8,19 +8,10 @@
 	<img src="[/experiment/giphy.gif](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0EF7F4&center=true&vCenter=true&random=false&width=435&lines=An+Engineer;I+write+Bugs!;Explore+What+I've+Build;They+say+I'm+Introvert)" alt="Hi"/>
 </picture>
 </div>
-	<div> ⚙️C/C++  🐍Python  👾Java  🗑️JS </div>
+	<div> Born, Suffered, Will Die </div>
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">📉 Competitive Programming 📈</h3>
-<p align="middle">
-   <a href="https://leetcode.com/u/Ashishshri10/" target="_blank" rel="noopener noreferrer">
 
-   </a>
-   <a href="https://codeforces.com/profile/ashishloves69" target="_blank" rel="noopener noreferrer">
-<img height="307em" src="https://codeforces-readme-stats.vercel.app/api/card?username=ashishloves69&theme=github_dark&force_username=true&border_color=000" />
-   </a>
-</p>
 
 
 
