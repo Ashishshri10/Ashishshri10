@@ -1,5 +1,5 @@
 <div align="center">
-  	<img src="/experiment/giphy.gif" alt="Hi" width="100" />
+  	<img src="cecesgif-cecesgifs.gif" alt="Hi" width="100" />
 	<div align="center">
 
 <picture>
