@@ -14,32 +14,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">📉 Competitive Programming 📈</h3>
 <p align="middle">
-   <a href="https://leetcode.com/u/amanraox/" target="_blank" rel="noopener noreferrer">
-<img height="305em" src="https://leetcard.jacoblin.cool/amanraox?theme=dark&font=Duru%20Sans&ext=contest&border=0&radius=13" />
-<!-- <img height="315em" src="https://leetcard.jacoblin.cool/raoxaman?font=Ubuntu&radius=13&ext=contest&sheets=https://gist.githubusercontent.com/amanraox/cf6cdd10f40353086bcb2de6694a4ce2/raw/786c10c0174e05e10c866f42ba0d47acf391b42a/leetcode_stats_card.css" /> -->
+   <a href="https://leetcode.com/u/Ashishshri10/" target="_blank" rel="noopener noreferrer">
+
    </a>
-   <a href="https://codeforces.com/profile/amanloves69" target="_blank" rel="noopener noreferrer">
-<img height="307em" src="https://codeforces-readme-stats.vercel.app/api/card?username=amanloves69&theme=github_dark&force_username=true&border_color=000" />
+   <a href="https://codeforces.com/profile/ashishloves69" target="_blank" rel="noopener noreferrer">
+<img height="307em" src="https://codeforces-readme-stats.vercel.app/api/card?username=ashishloves69&theme=github_dark&force_username=true&border_color=000" />
    </a>
 </p>
 
-<!--
-<img height="317em" src="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg#gh-dark-mode-only" />
-<p style="width: 300px;">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
-</picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">
-  <img alt="GitHub Profile Image" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" width="400">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">
-  <img alt="GitHub Profile Image" src="https://skillicons.dev/icons?i=java,nodejs&theme=light">
-</picture>
-</p>
--->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -57,9 +40,9 @@
  
  <div align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraox&theme=2077">
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraox&theme=github">
-<img alt="GitHub Profile Image" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraox&theme=2077">
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishshri10&theme=2077">
+  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishshri10&theme=github">
+<img alt="GitHub Profile Image" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishshri10&theme=2077">
 </picture>
  </div>
  <!--
@@ -77,7 +60,7 @@
                 <img src="image2-light.jpg" alt="Image 2" style="width: 100%; height: auto;">
             </picture>
 </div>				-->
-<h3 align="center">Open your "shell/command prompt" and type `<i>npx amanraox</i>`</h3>
+<h3 align="center">Open your "shell/command prompt" and type `<i>npx Ashishshri10</i>`</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="middle">
@@ -94,4 +77,4 @@
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff"style="vertical-align: middle;" />
 </picture>
 </p>
-<img src="https://profile-counter.glitch.me/amanraox/count.svg" alt=""/>
+<img src="https://profile-counter.glitch.me/Ashishshri10/count.svg" alt=""/>
