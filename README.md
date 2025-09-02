@@ -16,11 +16,6 @@
  <h3 align="center"><u>GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =25px></u></h3>
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green-animate.svg">
-  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
-</picture>
  <!-- <img src="/profile-3d-contrib/profile-green-animate.svg" alt="Hi" /> 
  rel="noopener noreferrer"
  -->
